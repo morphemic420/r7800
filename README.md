@@ -1,3 +1,6 @@
+After updating feeds, extract VHTNSS.zip to enable features
+
+
 ![OpenWrt logo](include/logo.png)
 
 OpenWrt Project is a Linux operating system targeting embedded devices. Instead
